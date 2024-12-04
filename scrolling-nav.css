@@ -1,0 +1,178 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+header {
+  padding: 154px 0 100px;
+	background-color:white
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+nav {
+  background-color: #FFF7F4;
+}
+
+body {
+	background-color: #FFF7F4;
+}
+
+header {
+  background-color: #FFE5EB;
+	background-image: url('flowers.jfif');
+}
+
+section {
+	background-color:#FFF7F4;
+  padding: 100px 20px;
+	color: #602234;
+}
+
+h2 {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+		color: #602234;
+		font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+h1 {color: #602234;
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"}
+
+
+i{ color: #602234;
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+p {
+	float: left;
+  width: 33.33%;
+  padding: 15px;
+	text-align: center;
+}
+h3 {color: #602234;
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+font-size: 25px;
+text-align: center;
+}
+
+h5 {color: #602234;
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+font-size: 25px;
+text-align: center;
+	
+}
+
+
+h4 {color: #602234;
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+font-size: 17px;
+text-align: center}
+
+i {color: #602234;
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+text-align: left;
+	text-indent: 10%;
+	font-size: 18px;
+}
+
+h6 {text-align: center;
+	color: #602234;
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	
+}
+
+a {color: #602234;
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+
+footer { 
+  padding: 0 20px;
+}
+
+
+.center {
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 85px;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+	text-align: center;
+}
+
+p.column {text-align: center;
+	
+}
+
+.peony {  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 24%;
+	
+}
+
+
+.gold-bg {
+  background-color: #FFE5EB;
+}
+
+.class {text-align: center;}
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #602234;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: black;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+    color: #602234;
+}
+
+
+.customize a { border: 2.5px solid;
+	border-color: #FFD2DC; 
+	margin-left: 45.5%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+	
+}
+
+.shop a { border: 2.5px solid;
+	border-color: #FFD2DC; 
+	margin-left: 45.5%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+}
+
+.socialmedia {   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+	font-size: 40px;
+	word-spacing: 3px;
+	
+}
+
+
+
+
